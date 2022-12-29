@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Yash Devkate</h1>
-<h3 align="center">Security Researcher, Coder, Front-end Developer.</h3>
+<h3 align="center">VAPT Analyst, Bug Hunter, Independent Security Researcher, Coder, Front-End Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootxyash&label=Profile%20views&color=0e75b6&style=flat" alt="yash" /> </p>
 
