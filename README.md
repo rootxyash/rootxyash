@@ -35,12 +35,17 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
+### Current Challenge :pushpin:
+
+[Learn365](https://github.com/dn0m1n8tor/learn365) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life.
+
+
 <h2> Github Statistics 📈 </h2>
 
  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dn0m1n8tor&show_icons=true&theme=dark" width = 400 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dn0m1n8tor&theme=dark&hide_border=true" width = 400 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dn0m1n8tor&theme=dark&hide_border=true" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=rootxyash&show_icons=true&theme=dark" width = 400 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rootxyash&theme=dark&hide_border=true" width = 400 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootxyash&theme=dark&hide_border=true" />
 </p>
 
 
