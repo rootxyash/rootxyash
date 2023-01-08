@@ -37,9 +37,12 @@
 
 <h2> Github Statistics 📈 </h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=rootxyash&show_icons=true&theme=transparent" alt="Zignake :: Profile Stats" /></p>
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=dn0m1n8tor&show_icons=true&theme=dark" width = 400 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dn0m1n8tor&theme=dark&hide_border=true" width = 400 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dn0m1n8tor&theme=dark&hide_border=true" />
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootxyash&show_icons=true&theme=transparent" alt="Zignake :: Top Langs" /></p>
 
 <br/>
 
