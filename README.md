@@ -37,7 +37,7 @@
 
 ### Current Challenge :pushpin:
 
-[Learn365](https://github.com/dn0m1n8tor/learn365) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life.
+[Learn365](https://github.com/rootxyash/learn365days) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life.
 
 
 <h2> Github Statistics 📈 </h2>
